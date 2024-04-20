@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "dns_cache.h": "c",
+        "dns_stream.h": "c",
+        "dns.h": "c",
+        "connection.h": "c",
+        "fcntl.h": "c",
+        "time.h": "c",
+        "types.h": "c",
+        "stat.h": "c",
+        "string.h": "c",
+        "assert.h": "c",
+        "stdbool.h": "c",
+        "stdlib.h": "c"
+    }
+}
